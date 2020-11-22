@@ -1,5 +1,5 @@
-:root{
-    --bd-dark: 100px;
+:root {
+    --bg-dark: #8257D4;
 
     --logo-height: 100px;
     --header-height: 100px;
@@ -27,7 +27,7 @@
         1fr
         var(--footer-height);
     grid-template-areas: 
-        "logo reader"
+        "logo header"
         "menu content"
         "menu footer";
     height: 100vh;
