@@ -1,11 +1,24 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Arthur Oliveira",
-        "email": "aoliveira@cod3r.com.br"
-    }, {
-        "id": 2,
-        "name": "Maria Julia da Silva",
-        "email": "mjds@empresa.com"
-    }]
+  "users": [
+    {
+      "name": "Leandro Muniz",
+      "email": "leandro@bexus.com.br",
+      "id": 3
+    },
+    {
+      "name": "Liliane Fiochi da Silva",
+      "email": "lilianefiochi@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Letícia Peçanha Muniz",
+      "email": "leticia@bexus.com.br",
+      "id": 5
+    },
+    {
+      "name": "Laura Fiochi Muniz",
+      "email": "laura@bexus.com.br",
+      "id": 6
+    }
+  ]
 }
